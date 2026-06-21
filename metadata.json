@@ -1,0 +1,6 @@
+{
+  "name": "SmartClinic",
+  "description": "Enterprise-grade multi-tenant clinic management SaaS with EMR, prescriptive AI diagnostics, queue tracking, billing, inventory, and pharmacy operations.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
